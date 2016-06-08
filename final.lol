@@ -1,7 +1,13 @@
 HAI 1.3
   CAN HAS STDIO?
+  OBTW
+    EDIT THESE THREE
+  TLDR
+
   I HAS A prev ITZ 2 BTW seed
-  I HAS A rand_max ITZ 10000
+  I HAS A rand_max ITZ 1000
+  I HAS A z ITZ 1000
+
 
   OBTW random int function taken from
   https://github.com/LoganKelly/LOLTracer/blob/master/LOLTracer.lol
@@ -90,6 +96,7 @@ HAI 1.3
 
   HOW IZ I print_array YR array AN YR n
     I HAS A string ITZ A YARN
+    VISIBLE array'Z SRS 0
     IM IN YR MEOW UPPIN YR i TIL BOTH SAEM i AN n
       string R SMOOSH string AN array'Z SRS i AN ":>" MKAY  BTW :> is \t
     IM OUTTA YR MEOW
@@ -110,7 +117,6 @@ OBTW
   MAIN
 TLDR
 
-  I HAS A z ITZ 50
   I HAS A array ITZ A BUKKIT
   I HAS A sorted_array ITZ A BUKKIT
   array R I IZ random_array YR z MKAY
