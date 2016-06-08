@@ -6,7 +6,7 @@ HAI 1.3
 
   I HAS A prev ITZ 2 BTW seed
   I HAS A rand_max ITZ 1000
-  I HAS A z ITZ 1000
+  I HAS A z ITZ 500
 
 
   OBTW random int function taken from
@@ -96,7 +96,6 @@ HAI 1.3
 
   HOW IZ I print_array YR array AN YR n
     I HAS A string ITZ A YARN
-    VISIBLE array'Z SRS 0
     IM IN YR MEOW UPPIN YR i TIL BOTH SAEM i AN n
       string R SMOOSH string AN array'Z SRS i AN ":>" MKAY  BTW :> is \t
     IM OUTTA YR MEOW
